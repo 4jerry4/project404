@@ -1,12 +1,14 @@
 h1{
 	text-align: center;
 }
+h5{
+	text-align: center;
 body{
 	background-color: yellow;
 }
 
 h3{
-	transform: rotate(90deg);
+	transform: rotate(180deg);
 }
 #con2 {
 	font-family: fantasy;
